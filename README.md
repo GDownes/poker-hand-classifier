@@ -19,7 +19,7 @@ Navigate into the project directory
 cd poker-hand-classifier
 ```
 
-Run the pokerHandClassifier classifier script using node, passing the path of input file as the first argument
+Run the pokerHandClassifier classifier script using node, passing the path of the input file as the first argument
 ```bash
 node pokerHandClassifier.js ./example/input.txt
 ```
