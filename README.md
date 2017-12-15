@@ -11,7 +11,7 @@
 # Getting started
 Clone the repository
 ```bash
-git clone https://github.com/codeaim/poker-hand-classifier.git
+git clone https://github.com/GDownes/poker-hand-classifier.git
 ```
 
 Navigate into the project directory
