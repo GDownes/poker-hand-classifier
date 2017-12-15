@@ -5,8 +5,8 @@
 - Node v8.9.3 (https://nodejs.org/)
 
 # Directory layout
-./pokerHandClassifier.js - Classifier script
-./example/input.txt - Example input file
+- ./pokerHandClassifier.js - Classifier script
+- ./example/input.txt - Example input file
 
 # Getting started
 Clone the repository
