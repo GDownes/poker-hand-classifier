@@ -11,6 +11,7 @@ readFile(process.argv[2])
     .then((input) => {
         input
             .split('\r\n')
+            .filter(hand => hand !== '')
             .map(hand => console.log(`${hand} => ${classify(hand)}`));
     })
     .catch(() => {
